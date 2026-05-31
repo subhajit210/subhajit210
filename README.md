@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="files/dragon_knight_ani.svg" alt="Dragon Battle - Animated ASCII Art" width="100%"/>
+<img src="files/dragon_knight_animated.svg" alt="Dragon Battle - Animated ASCII Art" width="100%"/>
 
 </div>
 
