@@ -21,7 +21,7 @@ except ImportError:
 # config
 
 INPUT_IMAGE = Path(r"../files/reference_dragon_knight.png")
-OUTPUT_SVG  = Path(r"../files/dragon_knight_ani.svg")
+OUTPUT_SVG  = Path(r"../files/dragon_knight_animated.svg")
 
 COLS = 260
 CHAR_ASPECT = 0.48
